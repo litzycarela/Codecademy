@@ -1,5 +1,5 @@
-name = "Litzy"
-question = "Will I get an internship in the Summer of 2022?"
+name = input("Enter name here: ")
+question = input("Enter question here: ")
 answer =  ""
 
 if len(name) == 0:
